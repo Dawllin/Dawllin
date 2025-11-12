@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dawllin
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on open source projects, particularly in game development using Unity and C#. I’m also interested in learning more about artificial intelligence in gaming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on open source projects. I’m also interested in learning more about artificial intelligence
 - 📫 How to reach me xcyu-1001@outlook.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I can speak 3 languages: English, Portuguese and Spanish
