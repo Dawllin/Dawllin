@@ -1,5 +1,33 @@
-- 👋 Hi, I’m @Dawllin
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on open source projects. I’m also interested in learning more about artificial intelligence
-- 📫 How to reach me xcyu-1001@outlook.com
+# Willian Spohr | Cybersecurity Student
+
+I am currently studying cybersecurity and building hands-on labs using Kali Linux and Ubuntu.
+
+## Current Focus
+
+- Network Scanning
+- Service Enumeration
+- Linux Fundamentals
+- Penetration Testing Fundamentals
+
+## Lab Environment
+
+- Kali Linux
+- Ubuntu Linux
+- VirtualBox
+- Nmap
+
+## Portfolio
+
+Cybersecurity labs and projects:
+(coming soon)
+
+## Currently learning
+
+- Cybersecurity fundamentals
+- Linux
+- Networking
+- Python for security
+
+## Contact
+
+Email: xcyu-1001@outlook.com
